@@ -1,1 +1,9 @@
 @import '~bootstrap/scss/bootstrap';
+@import './partials/header';
+@import './partials/footer';
+
+
+
+body{
+    background-color: rgba(0, 0, 0, 0.8);
+}
